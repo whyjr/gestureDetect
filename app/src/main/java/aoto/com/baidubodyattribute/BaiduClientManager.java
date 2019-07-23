@@ -18,9 +18,9 @@ import aoto.com.baidubodyattribute.Listeners.GestureDetectListener;
 public class BaiduClientManager {
 
     //
-    public static final String APP_ID = "16598522";
-    public static final String API_KEY = "1132dTW09cmtrUQ3hGCUFcUE";
-    public static final String SECRET_KEY = "G9iKoFw1sGSG5cQz3iKFWAkfmthtESRG";
+    public static final String APP_ID = "##";
+    public static final String API_KEY = "##";
+    public static final String SECRET_KEY = "##";
 
     private static ThreadPoolExecutor executor;
     private static AipBodyAnalysis client = null;
